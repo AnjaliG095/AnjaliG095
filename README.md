@@ -19,7 +19,7 @@
 
 * 🎓 Computer Science Student
 * 🌱 Currently learning **Data Structures & Algorithms in Java**
-* 💻 Frontend Developer in Progress
+* 💻 Frontend Developer 
 * 🚀 Future Software Developer
 * 📚 Exploring Git, GitHub and Open Source
 * ✨ Turning coffee into code, one bug at a time
