@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Anjali Gurjar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+in+Java+Learner;Frontend+Developer+in+Progress;Future+Software+Developer;Always+Learning+New+Things+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" alt="Girl Coding">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+in+Java+Learner;Frontend+Developer+in+Progress;Future+Software+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=30&animation=fadeIn" />
 </p>
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="400" alt="Coding Animation">
+</p>
+
+---
+
 # 👩‍💻 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Data Structures & Algorithms in Java**
-- 💡 Interested in **Software Development**
-- 🚀 Improving problem-solving skills every day
-- 📚 Exploring Git, GitHub and Open Source
-- ✨ Turning coffee into code, one bug at a time
+* 🎓 Computer Science Student
+* 🌱 Currently learning **Data Structures & Algorithms in Java**
+* 💻 Frontend Developer in Progress
+* 🚀 Future Software Developer
+* 📚 Exploring Git, GitHub and Open Source
+* ✨ Turning coffee into code, one bug at a time
 
 ---
 
@@ -45,6 +48,9 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
 </p>
+
+---
+
 # 🌐 Socials
 
 <p align="center">
@@ -57,45 +63,43 @@
   </a>
 </p>
 
+---
+
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnjaliG095&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&theme=radical&hide_border=true&show_icons=true&count_private=true" height="170"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnjaliG095&theme=radical&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&theme=radical&hide_border=true&layout=compact" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&theme=radical&layout=compact)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliG095&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AnjaliG095&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnjaliG095&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnjaliG095/AnjaliG095/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-# 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AnjaliG095&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
 # 📈 Activity Graph
 
-[![Anjali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark)](https://github.com/AnjaliG095)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
@@ -108,6 +112,3 @@
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
-
-
-```
