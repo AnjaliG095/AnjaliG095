@@ -1,17 +1,16 @@
-
 <h1 align="center">Hi 👋, I'm Anjali Gurjar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+in+Java+Learner;Frontend+Developer+in+Progress;Future+Software+Developer;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" alt="Girl Coding">
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=30&animation=fadeIn" />
 </p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Girl Coding">
-</p>
-
-
----
-
 # 👩‍💻 About Me
 
 - 🎓 Computer Science Student
@@ -25,33 +24,38 @@
 
 # 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 
+</p>
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-gurjar)
+<p align="center">
+  <a href="https://linkedin.com/in/anjali-gurjar">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjaligurjar399@gmail.com)
-
----
+  <a href="mailto:anjaligurjar399@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 # 📊 GitHub Stats
 
@@ -105,7 +109,5 @@
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B8;Keep+Coding+%F0%9F%92%BB" />
-</p>
+
 ```
