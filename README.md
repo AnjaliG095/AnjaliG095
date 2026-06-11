@@ -4,7 +4,7 @@
 </p>
 
 
-p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=CSE'28;Frontend+Developer;Learning+Data+Structures+and+Algorithms;Java+Developer+in+Progress;Always+Learning+Something+New" />
 </p>
 
