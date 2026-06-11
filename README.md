@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Anjali Gurjar</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=30&animation=fadeIn" />
