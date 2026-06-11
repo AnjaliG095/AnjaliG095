@@ -1,4 +1,8 @@
 <h1 align="center">Hi , I'm Anjali Gurjar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=30&animation=fadeIn" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+in+Java+Learner;Frontend+Developer+in+Progress;Future+Software+Developer;Always+Learning+New+Things" />
@@ -8,9 +12,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Girl Coding">
 </p>
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" width="400" alt="Coding Animation">
-</p>
 
 ---
 
