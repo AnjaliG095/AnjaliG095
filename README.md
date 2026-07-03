@@ -31,7 +31,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,,git,github,vscode," />
 </p>
----
+
 
 # 🌐 Socials
 
