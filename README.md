@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="[[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ4bjB2cHl6eWVpaWZsbWE3MTF3NGprcHhnZWZzaGJqNGU3YnluaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ4bjB2cHl6eWVpaWZsbWE3MTF3NGprcHhnZWZzaGJqNGU3YnluaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif))" width="350" alt="Girl Coding">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ4bjB2cHl6eWVpaWZsbWE3MTF3NGprcHhnZWZzaGJqNGU3YnluaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="350" alt="Girl Coding">
 </p>
+
 
 
 ---
