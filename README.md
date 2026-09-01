@@ -17,21 +17,19 @@
 ---
 
 # 👩‍💻 About Me
-
-* 🎓 Computer Science Student
-* 🌱 Currently learning **Data Structures & Algorithms in Java**
-* 💻 Frontend Developer 
-* 🚀 Future Software Developer
-* 📚 Exploring Git, GitHub and Open Source
-* ✨ Turning coffee into code, one bug at a time
+CSE'28
+Frontend Developer
+Java & Data Structures Enthusiast
+Building Projects • Solving Problems • Learning Every Day
+Aspiring Software Developer
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+[<p align="center">
 <img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,,git,github,vscode," />
-</p>
+</p>](https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,git,github,vscode)
 
 
 # 🌐 Socials
@@ -51,15 +49,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&theme=radical&hide_border=true&show_icons=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&theme=radical&hide_border=true&show_icons=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&theme=radical&hide_border=true&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&theme=radical&hide_border=true&layout=compact" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliG095&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=AnjaliG095&theme=radical&hide_border=true"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
