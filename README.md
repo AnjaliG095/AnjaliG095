@@ -27,23 +27,29 @@ Aspiring Software Developer
 
 # 💻 Tech Stack
 
-[<p align="center">
-<img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,,git,github,vscode," />
-</p>](https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,git,github,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,git,github,vscode" />
+</p>
 
+# 🌐 Socials
 
 # 🌐 Socials
 
 <p align="center">
-  <a href="https://linkedin.com/in/anjali-gurjar">
+
+  <a href="https://linkedin.com/in/AnjaliGurjar9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/AnjaliG095/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
   <a href="mailto:anjaligurjar399@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
 
+</p>
 ---
 
 # 📊 GitHub Stats
@@ -77,8 +83,9 @@ Aspiring Software Developer
 
 # 📈 Activity Graph
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
