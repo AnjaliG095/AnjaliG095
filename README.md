@@ -13,17 +13,13 @@
 </p>
 
 
-
----
-
 # 👩‍💻 About Me
-CSE'28
-Frontend Developer
+* CSE'28
+  Frontend Developer
 Java & Data Structures Enthusiast
 Building Projects • Solving Problems • Learning Every Day
 Aspiring Software Developer
 
----
 
 # 💻 Tech Stack
 
@@ -31,7 +27,6 @@ Aspiring Software Developer
   <img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,git,github,vscode" />
 </p>
 
-# 🌐 Socials
 
 # 🌐 Socials
 
@@ -50,7 +45,6 @@ Aspiring Software Developer
   </a>
 
 </p>
----
 
 # 📊 GitHub Stats
 
@@ -63,7 +57,7 @@ Aspiring Software Developer
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnjaliG095&theme=radical&hide_border=true"/>
 </p>
----
+
 
 # 🏆 GitHub Trophies
 
@@ -71,15 +65,11 @@ Aspiring Software Developer
 <img src="https://github-profile-trophy.vercel.app/?username=AnjaliG095&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
 
 # 📈 Activity Graph
 
@@ -88,7 +78,6 @@ Aspiring Software Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
 # 👀 Profile Views
 
@@ -96,6 +85,5 @@ Aspiring Software Developer
   <img src="https://komarev.com/ghpvc/?username=AnjaliG095&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
----
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
