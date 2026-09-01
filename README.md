@@ -15,10 +15,10 @@
 
 # 👩‍💻 About Me
 * CSE'28
-  Frontend Developer
-Java & Data Structures Enthusiast
-Building Projects • Solving Problems • Learning Every Day
-Aspiring Software Developer
+* Frontend Developer
+* Java & Data Structures Enthusiast
+* Building Projects • Solving Problems • Learning Every Day
+* Aspiring Software Developer
 
 
 # 💻 Tech Stack
@@ -49,13 +49,13 @@ Aspiring Software Developer
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&theme=radical&hide_border=true&show_icons=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&theme=radical&hide_border=true&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnjaliG095&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=AnjaliG095&theme=radical&hide_border=true" width="70%" />
 </p>
 
 
@@ -73,11 +73,9 @@ Aspiring Software Developer
 
 # 📈 Activity Graph
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
-
 
 # 👀 Profile Views
 
