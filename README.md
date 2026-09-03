@@ -66,11 +66,10 @@
 </p>
 
 ---
-
 ## 🧩 LeetCode Progress
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=AnjaliGurjar9&theme=dark&hide_border=true" width="700"/>
+  <img src="https://github-readme-leetcode-card.romitsagu.com/AnjaliGurjar9?theme=dark&show=graph,recent" width="700"/>
 </p>
 
 <p align="center">
