@@ -1,87 +1,146 @@
-<h1 align="center">Hi , I'm Anjali Gurjar</h1>
+<h1 align="center">Hi 👋, I'm Anjali Gurjar</h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=30&animation=fadeIn" />
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=CSE'28;Frontend+Developer;Learning+Data+Structures+and+Algorithms;Java+Developer+in+Progress;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=CSE'28;Frontend+Developer;Java+%26+Data+Structures+Enthusiast;Building+Projects+%26+Solving+Problems;Aspiring+Software+Developer;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ4bjB2cHl6eWVpaWZsbWE3MTF3NGprcHhnZWZzaGJqNGU3YnluaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="550" alt="Girl Coding">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Girl Coding">
 </p>
 
+---
 
-# 👩‍💻 About Me
-* CSE'28
-* Frontend Developer
-* Java & Data Structures Enthusiast
-* Building Projects • Solving Problems • Learning Every Day
-* Aspiring Software Developer
+## 👩‍💻 About Me
 
+* 🎓 Computer Science Engineering Student — **CSE'28**
+* 💻 Frontend Developer passionate about building interactive web experiences
+* ☕ Currently learning **Data Structures & Algorithms in Java**
+* 🧠 Practicing problem solving on **LeetCode**
+* 🚀 Exploring **React, Java, Git & Open Source**
+* 🏆 Participating in hackathons and building real-world projects
+* 🌱 Always learning, building and improving
 
-# 💻 Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,git,github,vscode" />
 </p>
 
+---
 
-# 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/AnjaliGurjar9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/AnjaliGurjar9" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/AnjaliG095/" target="_blank">
+<a href="https://leetcode.com/u/AnjaliG095/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:anjaligurjar399@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnjaliG095&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧩 LeetCode Progress
+
+<p align="center">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=AnjaliGurjar9&theme=dark&hide_border=true" width="700"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/AnjaliGurjar9/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+</p>
 
-  <a href="mailto:anjaligurjar399@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnjaliG095&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AnjaliG095">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnjaliG095&repo=DSA_JAVA&theme=radical&hide_border=true" />
   </a>
-
-</p>
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliG095&show_icons=true&theme=radical&hide_border=true" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliG095&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnjaliG095&theme=radical&hide_border=true" width="70%" />
+  <a href="https://github.com/AnjaliG095">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnjaliG095&repo=hackathon-ai-ethics-auditor&theme=radical&hide_border=true" />
+  </a>
 </p>
 
+---
 
-# 🏆 GitHub Trophies
+## 💡 Currently
+
+```text
+🌱 Learning       → Data Structures & Algorithms in Java
+💻 Building       → Web Development Projects
+🧠 Practicing     → LeetCode & Problem Solving
+🚀 Exploring      → Open Source & New Technologies
+🎯 Goal           → Become a strong Software Developer
+```
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnjaliG095&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+  <i>I'm always open to learning, collaborating and building something interesting.</i>
 </p>
-
-# 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📈 Activity Graph# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaliG095&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
-
-# 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnjaliG095&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </p>
-
-
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
