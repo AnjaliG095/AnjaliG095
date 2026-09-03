@@ -66,10 +66,10 @@
 </p>
 
 ---
-## 🧩 LeetCode Progress
+## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/AnjaliGurjar9?theme=dark&show=graph,recent" width="700"/>
+  <img src="https://leetcard.jacoblin.cool/AnjaliGurjar9?theme=dark&font=Poppins&ext=heatmap" width="700"/>
 </p>
 
 <p align="center">
