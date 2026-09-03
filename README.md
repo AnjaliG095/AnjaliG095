@@ -7,6 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=CSE'28;Frontend+Developer;Java+%26+Data+Structures+Enthusiast;Building+Projects+%26+Solving+Problems;Aspiring+Software+Developer;Always+Learning+Something+New" />
 </p>
+### 📊 My Stats & Activity
+
+[![GitHub Activity Graph](https://vercel.app)](https://github.com)
+
+[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Girl Coding">
